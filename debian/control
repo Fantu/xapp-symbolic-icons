@@ -3,10 +3,9 @@ Section: x11
 Priority: optional
 Maintainer: Clement Lefebvre <root@linuxmint.com>
 Build-Depends:
- debhelper-compat (= 12),
+ debhelper-compat (= 13),
  meson,
 Standards-Version: 4.6.1
-Rules-Requires-Root: no
 Homepage: https://github.com/linuxmint/xapp-symbolic-icons
 
 Package: xapp-symbolic-icons
