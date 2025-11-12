@@ -1,3 +1,22 @@
+xapp-symbolic-icons (1.0.1) zena; urgency=medium
+
+  [ Clement Lefebvre ]
+  * Make XSI prefix more obvious
+  * Adapt debian packaging
+  * Update README
+  * meson: Fix icon path
+  * Add pci-card
+
+  [ Leigh Scott ]
+  * Merge pull request #1 from leigh123linux/patch-1
+
+  [ Clement Lefebvre ]
+  * Add category icons
+  * Add boot-menu
+  * Add applications-education
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 12 Nov 2025 14:24:38 +0000
+
 xapp-symbolic-icons (1.0.0) zara; urgency=medium
 
   * 1.0.0
