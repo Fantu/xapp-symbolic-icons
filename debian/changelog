@@ -1,3 +1,9 @@
+xapp-symbolic-icons (1.0.5) zena; urgency=medium
+
+  * Add git-pr and github
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 26 Nov 2025 10:01:09 +0000
+
 xapp-symbolic-icons (1.0.4) zena; urgency=medium
 
   [ Michael Webster ]
