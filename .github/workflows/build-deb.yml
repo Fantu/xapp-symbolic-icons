@@ -1,0 +1,36 @@
+name: Build DEB packages
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        distro: ['debian:trixie', 'ubuntu:noble']
+    
+    container:
+      image: ${{ matrix.distro }}
+    
+    steps:
+    - name: Install dependencies
+      run: |
+        apt-get update
+        apt-get install -y git devscripts equivs
+        
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Install build dependencies
+      run: |
+        mk-build-deps -i -r -t "apt-get -y --no-install-recommends"
+        
+    - name: Build package
+      run: |
+        dpkg-buildpackage -us -uc -b
