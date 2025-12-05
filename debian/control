@@ -5,7 +5,6 @@ Maintainer: Clement Lefebvre <root@linuxmint.com>
 Build-Depends:
  debhelper-compat (= 13),
  meson,
- pkgconf,
 Standards-Version: 4.6.1
 Homepage: https://github.com/linuxmint/xapp-symbolic-icons
 

@@ -5,8 +5,4 @@ project(
   meson_version : '>=0.56.0'
 )
 
-gnome = import('gnome')
-pkg = import('pkgconfig')
-i18n = import('i18n')
-
 subdir('icons')
