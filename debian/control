@@ -15,4 +15,4 @@ Depends: python3
 Description: Set of symbolic icons for GTK applications
  This package contains a set of symbolic icons which replaces the GNOME-specific
  Adwaita set. All provided icons are prefixed with xsi- and places in
- /usr/share/icons/hicolor. Icon names losely follow the Adwaita names.
+ /usr/share/icons/hicolor. Icon names loosely follow the Adwaita names.
