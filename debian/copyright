@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: xapp-symbolic-icons
 Upstream-Contact: https://www.linuxmint.com/teams.php
-Source: https://github.com/linuxmint/xapp-symbolic-icons
+Source: https://github.com/xapp-project/xapp-symbolic-icons
 
 Files: *
 Copyright: 2025, XApp project

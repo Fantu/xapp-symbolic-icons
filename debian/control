@@ -7,7 +7,7 @@ Build-Depends:
  meson,
  pkgconf,
 Standards-Version: 4.6.1
-Homepage: https://github.com/linuxmint/xapp-symbolic-icons
+Homepage: https://github.com/xapp-project/xapp-symbolic-icons
 
 Package: xapp-symbolic-icons
 Architecture: all
@@ -15,4 +15,4 @@ Depends: python3
 Description: Set of symbolic icons for GTK applications
  This package contains a set of symbolic icons which replaces the GNOME-specific
  Adwaita set. All provided icons are prefixed with xsi- and places in
- /usr/share/icons/hicolor. Icon names losely follow the Adwaita names.
+ /usr/share/icons/hicolor. Icon names loosely follow the Adwaita names.

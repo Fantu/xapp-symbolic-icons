@@ -5,7 +5,7 @@ A set of symbolic icons which replaces the GNOME-specific Adwaita set.
 
 All provided icons are prefixed with xsi- and places in /usr/share/icons/hicolor.
 
-Icon names losely follow the Adwaita names.
+Icon names loosely follow the Adwaita names.
 
 To search/replace Adwaita icon names in your code, run:
 
