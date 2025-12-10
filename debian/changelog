@@ -1,3 +1,11 @@
+xapp-symbolic-icons (1.0.6) zena; urgency=medium
+
+  [ Fabio Fantoni ]
+  * Small fixes (#10)
+  * meson: remove unused import (#11)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 10 Dec 2025 14:58:14 +0000
+
 xapp-symbolic-icons (1.0.5) zena; urgency=medium
 
   * Add git-pr and github
