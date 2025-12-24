@@ -15,6 +15,7 @@ License
 =======
 
 This project is licensed under [GNU LGPL v3 only](https://spdx.org/licenses/LGPL-3.0-only.html) and [Creative Commons Attribution-ShareAlike 4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html).
+The scripts are licensed under [GNU GPL v3 or later](https://spdx.org/licenses/GPL-3.0-or-later.html).
 
 Credits
 =======
