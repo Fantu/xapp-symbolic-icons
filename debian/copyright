@@ -29,6 +29,26 @@ License: GPL-3+
  On Debian systems, the complete text of the GNU General Public
  License version 3 can be found in /usr/share/common-licenses/GPL-3.
 
+Files: icons/symbolic/xsi-applications-wine-symbolic.svg
+Copyright: 2024 bypeople
+License: CC0-1.0
+Comment: Source: https://www.svgrepo.com/svg/513083/windows-174
+ The upstream source lists this icon under "PD License" which SVG Repo
+ defines as equivalent to CC0-1.0 Universal Public Domain Dedication.
+ See: https://www.svgrepo.com/page/licensing/#PD
+ .
+ This icon depicts a stylized window design resembling the Windows logo.
+ Windows is a registered trademark of Microsoft Corporation. The icon is
+ used solely for referential purposes to indicate Windows platform
+ compatibility, which constitutes nominative fair use of the trademark.
+ No endorsement by or affiliation with Microsoft Corporation is implied.
+
+License: CC0-1.0
+ SPDX license expression "CC0-1.0": https://spdx.org/licenses/CC0-1.0.html
+ .
+ On Debian systems, the complete text of the CC0 Public Domain Dedication
+ can be found in "/usr/share/common-licenses/CC0-1.0".
+
 License: LGPL-3
  SPDX "LGPL-3.0-only": https://spdx.org/licenses/LGPL-3.0-only.html
  .

@@ -24,3 +24,8 @@ Many symbols icons originate from the adwaita icon theme:
 
 * Link: https://download.gnome.org/sources/adwaita-icon-theme/
 * Author: GNOME Project <https://www.gnome.org>
+
+icons/symbolic/xsi-applications-wine-symbolic.svg from svgrepo:
+
+* Link: https://www.svgrepo.com/svg/513083/windows-174
+* License: lists this icon under "PD License" which SVG Repo defines as equivalent to [CC0-1.0](https://spdx.org/licenses/CC0-1.0.html)
